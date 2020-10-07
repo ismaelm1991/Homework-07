@@ -1,8 +1,8 @@
 
-# **1**
-2
+# **A New Idea**
+4
 ## Description 
-undefined
+In this amazing application I look to gether fresh, new ideas in readme functionality. This will give the user the freedom to decide what kind of description they would like to have!
 ## Table of contents
 - [Description](#Description)
 - [Installation](#Installation)
@@ -13,17 +13,17 @@ undefined
 - [Repository Link](#Repository)
 - [GitHub Info](#GitHub) 
 ## Installation
-        3
+        npm i
 ## Usage
-4
+This project is designed to allow users to create their own style when it comes to the readme file and what to expect for their users
 ## Licence
 undefined
 ## Contributors
-6
+Ismael Mercado
 ## Test
-7
+N/A
 ## Repository
-- [Project Repo](https://github.com/ismaelm1991/link.git)
+- [Project Repo](https://github.com/ismaelm1991/Homework-07.git)
 ## GitHub
 ![Image of me](https://avatars0.githubusercontent.com/u/67805802?v=4)
 - Giovanni Mercado
