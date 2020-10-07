@@ -73,3 +73,9 @@ inquirer
             });
         });
     });
+
+    function init() {
+
+    }
+
+    init();
